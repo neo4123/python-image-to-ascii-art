@@ -1,1 +1,1 @@
-# python---image-to-ascii-art
+# python-image-to-ascii-art
